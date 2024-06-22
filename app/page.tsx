@@ -103,7 +103,7 @@ export default function Home() {
             </div>
             <div>
               <img
-                src="/miyanoyami_architecture.png"
+                src="miyanoyami_architecture.png"
                 width={1600}
                 height={800}
                 alt="Parody of AWS architecture"
