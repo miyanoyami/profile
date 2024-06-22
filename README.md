@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## profile
 
-## Getting Started
+このリポジトリは宮乃やみの公式webサイトを作成およびhostingするものです。
 
-First, run the development server:
+## memo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+以下は YouTube に以前記載していたプロフィール文です。
+このリポジトリでは、このジョークの実装版を作ります。
+YouTube のプロフィールを真面目に書き直すため、一旦ここにメモしています
+
 ```
+宮乃やみは、リスナーに新しいエクスペリエンスを導入する、よりシンプルで一貫性のあるソリューションを提供します。
+宮乃やみは、マイク、DAW、VSTを統合したボイスチェンジャーによって実現される単一の Virtual YouTuber です。
+リスナーはソースとしてストリーミング、アーカイブ、動画を選択することができます。
+また、外部のSNSを利用することでよりカスタマイズされたエクスペリエンスを実現することができます。
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Q:どのような場合にストリーミングを送信しますか？
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+宮乃やみは、平日および週末にかけてストリーミングを送信します。通常、これらのワークロードは夜間に最適化されます。
+宮乃やみのストリーミングの送信はベストエフォート型で実行されるため、ストリーミングが送信されない日が生じる可能性があります。
+また、オフタイムを最適化するため、2回以上の送信が実行される場合があります。リスナーはこのようなストリーミングを許容する必要があります。
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Q:ストリーミングのペイロードにはどのようなコンテンツが含まれますか？
 
-## Learn More
+宮乃やみは、エンターテインメント、テクノロジー、トークなど幅広いコンテンツをサポートします。
 
-To learn more about Next.js, take a look at the following resources:
+Q:ストリーミングの利用にはどれくらいのコストがかかりますか？
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+ストリーミングには無料利用枠があります。毎月31件までストリーミングを無料で視聴することが可能です。アーカイブは無料利用枠にカウントされず無制限での視聴が可能です。
+通常のリスナーは無料利用枠内で完全な運用を実現できます。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Q:メンバーシップにはどのようなメリットがありますか？
 
-## Deploy on Vercel
+メンバーシップに加入することで、カスタム絵文字やバッジを表示できます。特典はストリーミングの内容からは完全に分離されており、セルフサティスファクションのみに影響します。
+この他、メンバーシップを対象としたストリーミングが発生する可能性があります。メンバーシップを利用するリスナーは限定されたペイロードを取得できます。
+ただしこれらの発生は非常に稀であり、通常はこのような状況を想定したライフサイクルを構築する必要はありません。
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+==
+ボイチェンVTuberです。
+いつも夜に配信をしています、ゲームと技術系が多めです
+メンシ特典はあまりないので期待しないでください
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+この文章は AWS ドキュメントのパロディです
+```

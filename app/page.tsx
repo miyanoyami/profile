@@ -116,19 +116,19 @@ export default function Home() {
             <div className="col-span-2">
               <p className="text-4xl font-bold">ユースケース</p>
             </div>
-            <div className="mr-8">
+            <div className="ml-3 mr-3">
               <p className="text-3xl font-bold">退屈、眠気、余り時間（フリータイム）を緩和</p>
               <p className="text-xl">宮乃やみが夜間に実行するストリーミングまたはアーカイブを視聴することで、サブスクライバーは退屈・眠気・余り時間を緩和させることが可能です。この視聴は、時間を無駄にした僅かな罪悪感のみで可能です。</p>
             </div>
-            <div className="">
+            <div className="ml-3">
               <p className="text-3xl font-bold">ゲームプレイのアンチパターンを学習</p>
               <p className="text-xl">宮乃やみのストリーミングにはゲームプレイが含まれます。通常、このゲームプレイが最適化されるのには時間を要し、その間サブスクライバーはアンチパターンを学習することが可能です。</p>
             </div>
-            <div className="mr-8">
+            <div className="ml-3 mr-6">
               <p className="text-3xl font-bold">時間を知る</p>
               <p className="text-xl">宮乃やみは社会人であるため、ストリーミングは夜間に行われる性質があります。サブスクライバーはこの性質を駆使し、ストリーミングの視聴を通して現在が夜であることを把握できます。</p>
             </div>
-            <div className="">
+            <div className="ml-3">
               <p className="text-3xl font-bold">IT業界について学ぶ</p>
               <p className="text-xl">通常枠では技術的な内容に触れることは稀です。ただし、コメント欄(CommentSection)から宮乃やみにリクエストを送ると、IT業界やコンピューターテクノロジに関する情報・アドバイスが提供されます。</p>
             </div>
